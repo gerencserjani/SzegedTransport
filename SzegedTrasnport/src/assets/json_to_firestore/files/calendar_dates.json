@@ -1,0 +1,132 @@
+[
+  {
+    "service_id": "korona_AuZ",
+    "date": 20200410,
+    "exception_type": 1
+  },
+  {
+    "service_id": "korona_AuZ",
+    "date": 20200412,
+    "exception_type": 1
+  },
+  {
+    "service_id": "korona_AuZ",
+    "date": 20200413,
+    "exception_type": 1
+  },
+  {
+    "service_id": "korona_AuZ",
+    "date": 20200501,
+    "exception_type": 1
+  },
+  {
+    "service_id": "korona_L",
+    "date": 20200501,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_L",
+    "date": 20200410,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_U",
+    "date": 20200410,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_U",
+    "date": 20200430,
+    "exception_type": 1
+  },
+  {
+    "service_id": "korona_U",
+    "date": 20200409,
+    "exception_type": 1
+  },
+  {
+    "service_id": "korona_U",
+    "date": 20200501,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_L",
+    "date": 20200409,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_L",
+    "date": 20200430,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_L",
+    "date": 20200601,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_AuZ",
+    "date": 20200601,
+    "exception_type": 1
+  },
+  {
+    "service_id": "korona_AuZ",
+    "date": 20200531,
+    "exception_type": 1
+  },
+  {
+    "service_id": "korona_MN",
+    "date": 20200410,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_MN",
+    "date": 20200501,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_MN",
+    "date": 20200601,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_MN",
+    "date": 20200413,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_L",
+    "date": 20200413,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_AuNY",
+    "date": 20200601,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_AuNY",
+    "date": 20200501,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_AuNY",
+    "date": 20200531,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_AuNY",
+    "date": 20200410,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_AuNY",
+    "date": 20200412,
+    "exception_type": 2
+  },
+  {
+    "service_id": "korona_AuNY",
+    "date": 20200413,
+    "exception_type": 2
+  }
+]

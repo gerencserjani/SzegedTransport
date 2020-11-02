@@ -1,0 +1,29 @@
+<style>
+  
+</style>
+
+<table class="table table-dark">
+  <tr>
+    <th><input type="time"  [(ngModel)]="ekkortol" id="appt" name="appt"
+      min="00:00" max="23:00"  required>
+      <input type="time" [(ngModel)]="eddig" id="appt" name="appt"
+      min="00:00" max="23:00"  required></th>
+      <th><input  type="text" [(ngModel)]="ide"></th>
+       <th><input  type="text" [(ngModel)]="innen"></th>
+    <th><button class="btn btn-primary" type="submit" (click)="idopontKeres()">Keresés</button></th>
+  </tr>
+  <tr>
+    <th>Időpont:</th>
+    <th>Végállomás:</th>
+    <th>Felszálló:</th>
+    <th>Járatszam:</th>
+    
+  </tr>
+  <tr *ngFor='let o of keresesEredmenyLista3'>
+    <td>{{o.indulas}}</td>
+    <td>{{o.vegsoHely}}</td>
+    <td>{{o.induloHely}}</td>
+    <td>{{o.melyikJarat}}</td>
+  </tr>
+</table>
+
